@@ -1,0 +1,385 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "SD Negeri 03 Sidigede",
+        "jenis": "SD",
+        "kategori": "Pendidikan",
+        "alamat": "Desa Sidigede RT. 12 RW. 03  KABUPATEN JEPARA",
+        "pengelola": "Dinas Pendidikan Kab. Jepara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.70096,
+          -6.75488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "MTSS BADRUL ULUM",
+        "jenis": "MTS",
+        "kategori": "Pendidikan",
+        "alamat": "SIDIGEDE RT. 01 RW. 01 WELAHAN KABUPATEN JEPARA",
+        "pengelola": "Dinas Pendidikan Kab. Jepara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.70841,
+          -6.7535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "SD NEGERI 1 SIDIGEDE",
+        "jenis": "SD",
+        "kategori": "Pendidikan",
+        "alamat": "Desa Sidigede RT. 03 RW. 01",
+        "pengelola": "Dinas Pendidikan Kab. Jepara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.70649,
+          -6.75542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "SD NEGERI 2 SIDIGEDE",
+        "jenis": "Sd",
+        "kategori": "Pendidikan",
+        "alamat": "Desa Sidigede RT. 05 RW. 01 KABUPATEN JEPARA",
+        "pengelola": "Dinas Pendidikan Kab. Jepara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.71035,
+          -6.76024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Masjid Sidiq Al-Khasan Sidigede",
+        "jenis": "Masjid",
+        "kategori": "Tempat Ibadah",
+        "alamat": "Desa Sidigede RT. 05 RW. 01 KABUPATEN JEPARA",
+        "pengelola": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.71076,
+          -6.75839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Masjid jami' Sidi Gede",
+        "jenis": "Masjid",
+        "kategori": "Tempat Ibadah",
+        "alamat": "6PW4+8RW, Sidigede, Kec. Welahan, Kabupaten Jepara, Jawa Tengah",
+        "pengelola": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.70716,
+          -6.75415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Mushola Hidayatul Muttaqin",
+        "jenis": "Mushola",
+        "kategori": "Tempat Ibadah",
+        "alamat": "6PW3+6Q9, Jalan Jambu Indah, Sidigede, Kec. Welahan, Kabupaten Jepara, Jawa Tengah 59464",
+        "pengelola": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.7046,
+          -6.75441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Bidan siswanti S.S.T",
+        "jenis": "Klinik",
+        "kategori": "Kesehatan",
+        "alamat": "6PV5+G3C, Unnamed Road, Sobokerto, Guwosobokerto, Welahan, Jepara Regency, Central Java 59464",
+        "pengelola": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.70764,
+          -6.75616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "MUSHOLA USWATUN KHASANAH",
+        "jenis": "Mushola",
+        "kategori": "Tempat Ibadah",
+        "alamat": "6PV5+6HX, Sidigede, Kec. Welahan, Kabupaten Jepara, Jawa Tengah 59464",
+        "pengelola": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.70909,
+          -6.75688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Bidan Kumiyati",
+        "jenis": "Klinik",
+        "kategori": "Kesehatan",
+        "alamat": "RT.07/Rw02, Sidigede, Kec. Welahan, Kabupaten Jepara, Jawa Tengah 59464",
+        "pengelola": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.70923,
+          -6.757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Mushola Sabilul Huda",
+        "jenis": "Mushola",
+        "kategori": "Tempat Ibadah",
+        "alamat": "Sidigede, Kec. Welahan, Kabupaten Jepara, Jawa Tengah 59464",
+        "pengelola": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.70813,
+          -6.75209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Apotek Nailus Syifa",
+        "jenis": "Apotek",
+        "kategori": "Kesehatan",
+        "alamat": "Jl. Raya Purwogondo No.001/001, Sidigede, Telukwetan, Kec. Welahan, Kabupaten Jepara, Jawa Tengah 59464",
+        "pengelola": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.7078,
+          -6.7522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Pondok Pesantren An-Nur Sidigede",
+        "jenis": "Pondok Pesantren",
+        "kategori": "Pendidikan",
+        "alamat": "RT.08/RW.02, Sidigede, Kec. Welahan, Kabupaten Jepara, Jawa Tengah 59464",
+        "pengelola": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.70545,
+          -6.75726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Musholla Mbah Datuk Subuh",
+        "jenis": "Mushola",
+        "kategori": "Tempat Ibadah",
+        "alamat": "6PW2+4X8 Samping Makam Mbah Datuk Subuh, Area Sawah, Sidigede, Kec. Welahan, Kabupaten Jepara, Jawa Tengah 59464",
+        "pengelola": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.70272,
+          -6.75465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "MI Badrul Ulum Gedung II",
+        "jenis": "MI",
+        "kategori": "Pendidikan",
+        "alamat": "6PV5+WJ4, Sidigede, Kec. Welahan, Kabupaten Jepara, Jawa Tengah 59464",
+        "pengelola": "Dinas Pendidikan Kab. Jepara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.70906,
+          -6.75518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "TPQ BADRUL ULUM",
+        "jenis": "TPQ",
+        "kategori": "Pendidikan",
+        "alamat": "6PV6+R7J, Jl. Mbah Nerang, Sidigede, Kec. Welahan, Kabupaten Jepara, Jawa Tengah 59464",
+        "pengelola": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.71081,
+          -6.75532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Musholla raudhotul muttaqin",
+        "jenis": "Mushola",
+        "kategori": "Tempat Ibadah",
+        "alamat": "6PQ5+QM5, Sidigede, Kec. Welahan, Kabupaten Jepara, Jawa Tengah 59464",
+        "pengelola": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.70947,
+          -6.76056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "PAUD Haidar Ali",
+        "jenis": "Paud",
+        "kategori": "Pendidikan",
+        "alamat": "6PR3+8WJ, Sidigede, Kec. Welahan, Kabupaten Jepara, Jawa Tengah 59464",
+        "pengelola": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.70485,
+          -6.75911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Mushola nurul fatah",
+        "jenis": "Mushola",
+        "kategori": "Tempat Ibadah",
+        "alamat": "6PW2+35W, Area Sawah, Sidigede, Kec. Welahan, Kabupaten Jepara, Jawa Tengah",
+        "pengelola": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.70101,
+          -6.75468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Mushola Miftahul Ula",
+        "jenis": "Mushola",
+        "kategori": "Tempat Ibadah",
+        "alamat": "6PW5+4MF, Sidigede, Kec. Welahan, Kabupaten Jepara, Jawa Tengah 59464",
+        "pengelola": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.70935,
+          -6.75465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "TPQ Nurul Hikmah",
+        "jenis": "TPQ",
+        "kategori": "Pendidikan",
+        "alamat": "6PR4+3JR, Sidigede, Welahan, Sidigede, Kec. Welahan, Kabupaten Jepara, Jawa Tengah 59464",
+        "pengelola": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.70664,
+          -6.75966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Mushola Al Falah Sidigede",
+        "jenis": "Mushola",
+        "kategori": "Tempat Ibadah",
+        "alamat": "6PR3+8MM, Sidigede, Kec. Welahan, Kabupaten Jepara, Jawa Tengah 59464",
+        "pengelola": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.70421,
+          -6.75915
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+@import 'leaflet/dist/leaflet.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-gradient-to-br from-slate-900 via-blue-900 to-slate-900 text-white font-sans;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+}
+
+@layer components {
+  .glass {
+    @apply bg-white/10 backdrop-blur-lg border border-white/20 shadow-xl;
+  }
+
+  .glass-dark {
+    @apply bg-slate-900/80 backdrop-blur-lg border border-white/10 shadow-2xl;
+  }
+
+  .custom-scrollbar::-webkit-scrollbar {
+    width: 6px;
+  }
+
+  .custom-scrollbar::-webkit-scrollbar-track {
+    @apply bg-white/5 rounded;
+  }
+
+  .custom-scrollbar::-webkit-scrollbar-thumb {
+    @apply bg-white/20 rounded hover:bg-white/30;
+  }
+
+  .map-container {
+    @apply relative w-full h-full rounded-xl overflow-hidden shadow-2xl;
+  }
+
+  .leaflet-container {
+    @apply w-full h-full z-0;
+    font-family: 'Inter', sans-serif;
+  }
+
+  .leaflet-control-zoom {
+    @apply glass border-none shadow-lg;
+  }
+
+  .leaflet-control-zoom a {
+    @apply glass text-white hover:bg-white/20 transition-all;
+  }
+
+  .leaflet-popup-content-wrapper {
+    @apply glass-dark text-white rounded-lg;
+  }
+
+  .leaflet-popup-tip {
+    @apply bg-slate-900/80;
+  }
+
+  .btn-primary {
+    @apply px-4 py-2 bg-blue-600 hover:bg-blue-700 text-white rounded-lg font-medium transition-all transform hover:scale-105 active:scale-95 shadow-lg;
+  }
+
+  .btn-secondary {
+    @apply px-4 py-2 glass hover:bg-white/20 text-white rounded-lg font-medium transition-all;
+  }
+}
+
+.leaflet-marker-icon {
+  margin-left: -12px !important;
+  margin-top: -12px !important;
+}
+
+.loading-spinner {
+  border: 3px solid rgba(255, 255, 255, 0.1);
+  border-radius: 50%;
+  border-top-color: #fff;
+  width: 40px;
+  height: 40px;
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* Hide Leaflet Attribution */
+.leaflet-control-attribution {
+  display: none !important;
+}
